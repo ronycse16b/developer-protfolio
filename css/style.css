@@ -7,7 +7,7 @@ body{
 }
 /*  section-1 start */
 .section-1{
-    background-image: url(/images/top-banner.png);
+    background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 margin-bottom: 40px;
 display: flex;
@@ -49,7 +49,7 @@ h1{
 
 /* section 2 */
 .section-2{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(../images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 margin-bottom: 50px;
@@ -71,7 +71,7 @@ display: flex;
 
 }
 .section-3{
-    background-image: url(/images/exp-bg.png);
+    background-image: url(../images/exp-bg.png);
     background-repeat: no-repeat;
 
   padding: 10px 80px;
