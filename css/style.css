@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-1{
+
+display: flex;
+}
+h1{
+    font-size: 50px;
+
+}
+.developer-name{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 3% 5%;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 50px;
+}
